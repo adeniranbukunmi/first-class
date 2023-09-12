@@ -1,0 +1,10 @@
+h2{
+    background-color: rebeccapurple;
+    width:40vh;
+    border: 2px solid gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    color: maroon;
+    font-size: 1rem;
+}
